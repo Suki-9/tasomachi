@@ -7,3 +7,4 @@
 
 body {margin: 0; }
 a,p,i {margin: 0; text-decoration: none;}
+a { color: var(--text-color-001); } 

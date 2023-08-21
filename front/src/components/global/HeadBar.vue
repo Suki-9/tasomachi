@@ -8,7 +8,7 @@
         <p :class="$style.title">黄昏ニ眠ル街</p>
         <div :class="$style.menuBox">
             <a>ホーム</a>
-            <a>ゲーム説明</a>
+            <a href="#gameDescription">ゲーム説明</a>
             <a>ニュース</a>
             <a>ギャラリー</a>
             <a>アート</a>
