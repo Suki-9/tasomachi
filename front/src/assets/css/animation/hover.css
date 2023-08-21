@@ -1,0 +1,4 @@
+@keyframes change-bg-color-001 {
+    0% { background-color: var(--bg-color-001); }
+    100% { background-color: var(--bg-color-001-hover); }
+}

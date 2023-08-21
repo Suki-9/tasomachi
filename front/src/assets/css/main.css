@@ -1,0 +1,9 @@
+@import "./themes/theme.css";
+
+:root {
+    margin: 0;
+    color: var(--text-color-001);
+}
+
+body {margin: 0; }
+a,p,i {margin: 0; text-decoration: none;}

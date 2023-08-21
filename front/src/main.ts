@@ -1,5 +1,6 @@
 //css-----------------------------------------------------//
 import "./assets/css/main.css";
+import "./assets/fontello/css/fontello.css";
 
 //js------------------------------------------------------//
 //import "../src/assets/css/device/styleSwitch";

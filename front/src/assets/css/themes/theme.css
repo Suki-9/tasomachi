@@ -1,0 +1,13 @@
+:root {
+    /* bg color */
+    --bg-color-001: rgb(38, 36, 35);
+    --bg-color-001-hover: rgb(43, 41, 40);
+    --bg-color-002: rgb(1, 1, 1);
+    --bg-color-003: rgb(1, 1, 1);
+    --bg-color-004: rgb(1, 1, 1);
+    --bg-color-005: rgb(1, 1, 1);
+
+    /* text */
+        /* color */
+        --text-color-001:rgb(255, 255, 255);
+}
